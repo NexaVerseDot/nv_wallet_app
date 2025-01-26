@@ -15,6 +15,10 @@ dependencies:
     path: packages/webon-kit-dart
   nomo_ui_kit:
         path: packages/nomo-ui-kit
+  nomo_webview:
+        path: packages/nomo-webview
+    shelf: ^1.4.1 # optional
+    shelf_static: ^1.1.2 # optional
 
   provider: ^6.1.1
   flutter_secure_storage: ^9.0.0

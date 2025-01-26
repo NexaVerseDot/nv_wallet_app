@@ -7,3 +7,6 @@
 [submodule "packages/nomo-ui-kit"]
 	path = packages/nomo-ui-kit
 	url = https://github.com/nomo-app/nomo-ui-kit.git
+[submodule "packages/nomo-webview"]
+	path = packages/nomo-webview
+	url = https://github.com/nomo-app/nomo-webview.git
