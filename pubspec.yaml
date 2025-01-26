@@ -1,0 +1,27 @@
+name: crypto_wallet
+description: Cross-platform crypto wallet using WalletKit-Dart
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  walletkit_dart:
+    path: packages/walletkit-dart
+  webon_kit_dart:
+    path: packages/webon-kit-dart
+  nomo_ui_kit:
+        path: packages/nomo-ui-kit
+
+  provider: ^6.1.1
+  flutter_secure_storage: ^9.0.0
+  hive: ^2.2.3
+  webview_flutter: ^4.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
